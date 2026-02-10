@@ -1,0 +1,38 @@
+{
+  "name": "hasinthanayanajith",
+  "version": "1.0.0",
+  "description": "A passionate software engineer with a strong interest in AI and MERN stack, PHP, as well as React. I believe in leveraging technology to create innovative and efficient solutions.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HasinthaNayanajith/HasinthaNayanajith.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HasinthaNayanajith/HasinthaNayanajith/issues"
+  },
+  "homepage": "https://github.com/HasinthaNayanajith/HasinthaNayanajith#readme",
+  "dependencies": {
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4.1.18",
+    "@types/node": "^25.2.2",
+    "@types/react": "^19.2.13",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.4.24",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18",
+    "typescript": "^5.9.3"
+  }
+}
